@@ -38,28 +38,7 @@
       copy paste lines below.
 
       ```
-      OWNER_NUMBER="201098906252"
-      MONGODB_URI="mongodb+srv://*************"
-      SESSION_ID = "session"
-      THUMB_IMAGE = "https://telegra.ph/file/24bb9841a79d8b45e8441.jpg"
-      port = 5000
-      email = "elgazar@elsa.live"
-      global_url = "instagram.com"
-      OWNER_NAME = "elsabot2"
-      AUTO_REACTION = false
-      FAKE_COUNTRY_CODE = 92
-      READ_MESSAGE = false
-      PREFIX = .
-      WARN_COUNT = 3
-      DISABLE_PM = false
-      ANTI_BAD_WORD = "fuck"
-      LEVEL_UP_MESSAGE= true
-      WELCOME_MESSAGE =  "*Hi,* @user \n*Welcome in* @gname \n*Member count* : @count th"
-      THEME= ELSA
-      WORKTYPE = public
-      PACK_INFO = "Elsa;bot"
-      ANTILINK_VALUES = "chat.whatsapp.com"
-      
+      OWNER_NUMBER{"noiseKey":{"private":{"type":"Buffer","data":"0KKPHZmAi8GN+rppO0Fk6Cfe6gJ5ci+hIDjN5rKQa20="},"public":{"type":"Buffer","data":"PflOnx1+SrTT/8RvJzFv4b+u+gv8Cq7cf2EFL2mBVXk="}},"pairingEphemeralKeyPair":{"private":{"type":"Buffer","data":"MN841BDj2bd+iRZrj3JDVqxxufXaFTGdN3fJzwsQEkc="},"public":{"type":"Buffer","data":"FjxyUvIn4zxRdxODLo4qnwRNsfVRmX+MXKiQ2DJl43E="}},"signedIdentityKey":{"private":{"type":"Buffer","data":"QMIry7Z1q6RYUGqfeeyap8RvUWlO4jMhBxcwDuv5SVY="},"public":{"type":"Buffer","data":"h0ulTtEWG8W9LKJVSPhDS9yrq/870YihWa+tOBmAe1k="}},"signedPreKey":{"keyPair":{"private":{"type":"Buffer","data":"eCfqZdiBDfZZ/IA2iYRIppxFLVqbr4RIjGC2llND5H4="},"public":{"type":"Buffer","data":"2jkescXyzH5QtlajkBgNgwvdBqwMSsTm31r//K6oQCU="}},"signature":{"type":"Buffer","data":"nrQhQFhoZqbPcg49FLzOFjehgj2X4q3Nr7ZF3XODb40r0iWmv0O16F9pqJyMplr0YJHFaA0KMceimRx0Ot4GAA=="},"keyId":1},"registrationId":249,"advSecretKey":"o4YDtBRDOAJlUpDY+Wmhfn9s4zCxopMk3avhmTqNKM0=","processedHistoryMessages":[],"nextPreKeyId":31,"firstUnuploadedPreKeyId":31,"accountSyncCounter":0,"accountSettings":{"unarchiveChats":false},"deviceId":"UZDuWjRSTvi5t0t0UXYNow","phoneId":"a79fb1ac-75e9-4f75-a4c2-3835321e09b6","identityId":{"type":"Buffer","data":"pQnpr4ibMYNzbUwWSrP8QkFSGgo="},"registered":true,"backupToken":{"type":"Buffer","data":"SQGkH32GQ/vk1QUSiKN4zAm+AeM="},"registration":{},"pairingCode":"LYBLCTF8","me":{"id":"97466496877:14@s.whatsapp.net"},"account":{"details":"CNDBtscCEIePnLMGGAEgACgA","accountSignatureKey":"gOUbhN6vi1q85zMtsVFK67bu0Cfv90FSjBAU/JCca00=","accountSignature":"gC6T3EA5sryQfpAvCBCfqi+6//ESFPiJGffRuPEePY4LrgAKxEIdyhYuMcFBt505+uWWqqvsBsuFDF4qB4DyBg==","deviceSignature":"ZQJBVRMn++p2MCCrqoLzOF+6QxQmjmu/NbchYMKuM4Upoeex0zheGBN564ALm0EofUN+fa3I6vsiCyD8CD18CA=="},"signalIdentities":[{"identifier":{"name":"97466496877:14@s.whatsapp.net","deviceId":0},"identifierKey":{"type":"Buffer","data":"BYDlG4Ter4tavOczLbFRSuu27tAn7/dBUowQFPyQnGtN"}}],"platform":"android","lastAccountSyncTimestamp":1718028171}
       ```
       ctrl + o and ctrl + x, To save and exit
 
